@@ -1,11 +1,12 @@
-# abc-restaurant-system
 ABC Restaurant Web Application
+
 Overview
-This project is part of a college assignment to design and develop a database-driven web application for ABC Restaurant, a popular restaurant chain in Sri Lanka. The goal of this project is to create a comprehensive and user-friendly system that enhances customer interaction and streamlines internal processes.
+  This project is part of a college assignment to design and develop a database-driven web application for ABC Restaurant, a popular restaurant chain in Sri Lanka. The goal of this project is to create a comprehensive and user-friendly system that enhances customer   
+  interaction and streamlines internal processes.
 
 Features
-Online Reservations: Customers can make reservations for dining in or delivery services.
-Service Search: Users can search for details about hospitality services, available facilities, and special offers.
+  1. Online Reservations: Customers can make reservations for dining in or delivery services.
+    Service Search: Users can search for details about hospitality services, available facilities, and special offers.
 Query Submission: Customers can submit queries regarding services and reservations, which the restaurant staff can address.
 User Roles:
 Admin: Manage the entire system, including user roles, services, and reports.
